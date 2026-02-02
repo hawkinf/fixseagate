@@ -1,3 +1,4 @@
-repair_log_*.txt
+build/
+dist/
 __pycache__/
-*.pyc
+*.spec
